@@ -1,0 +1,7 @@
+Personal Project 1: Fake News Detection
+
+Models used to evaluate True/Fake news are : 
+1. LOGISTIC REGRESSION
+2. DECISION TREE CLASSIFICATION
+3. GRADIENT BOOSTING CLASSIFIER
+4. RANDOM FOREST CLASSIFIER
